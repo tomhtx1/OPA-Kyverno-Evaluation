@@ -66,8 +66,8 @@ Run the Script:
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Oluwatomisin Omonira
+ex. [tomomonira@gmail.com] (https://twitter.com/dompizzie)
 
 ## Version History
 
