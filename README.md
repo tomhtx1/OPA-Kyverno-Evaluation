@@ -52,7 +52,7 @@ Download the provided Python script (gatekeeper_yaml_pull.py) and place it in th
 
 * Navigate to the Repository:
 Open a terminal and navigate to the root directory of the cloned repository.
-Run the Script:
+Run the Script: (Provided in Code Sections)
 
 
 
@@ -67,25 +67,20 @@ Run the Script:
 Contributors names and contact info
 
 ex. Oluwatomisin Omonira
-ex. [tomomonira@gmail.com] (https://twitter.com/dompizzie)
+ex. [tomomonira@gmail.com] (https://www.linkedin.com/in/oluwatomisin-omonira-a16238278/)
 
 ## Version History
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GNU GPLv3] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [PlatformOne](https://github.com/DoD-Platform-One)
